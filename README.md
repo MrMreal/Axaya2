@@ -11,7 +11,7 @@ Remember:
 </br>
 2: axaya2 use clipboard monitoring 
 </br>
-3: plz report issues
-
-
+3: for resume torrent download needs to be redownload the file (in right click menu)
+</br>
+4: plz report issues
 
